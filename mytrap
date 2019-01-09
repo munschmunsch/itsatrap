@@ -6,7 +6,7 @@ username=blah
 password=blah
 
 
-qint this a little repo
+qaint this a little repo
 Password =  luckyme123
 
 Server=tcp:[serverName].database.windows.net;Database=myDataBase;

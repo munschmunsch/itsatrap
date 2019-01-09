@@ -1,0 +1,70 @@
+
+qa.com
+apiKey=
+sharedSecret=
+username=blah
+password=blah
+
+
+this a little repo
+Password =  luckyme123
+
+Server=tcp:[serverName].database.windows.net;Database=myDataBase;
+User ID=[LoginForDb]@[serverName];Password=myPassword;Trusted_Connection=False;
+Encrypt=True;
+
+
+ 
+apikey
+adminpassword=
+
+jdbc:oracle:thin:MY_SRVR/imadev1@(DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=mycooltooldbd074)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=MYCOOLTOOL)))",
+Driver =
+
+Driver= 
+```
+"Driver=
+ "Driver = 
+
+Database
+Database=
+Database = 
+;Database
+Port=5432
+;Port=5432
+thumbprint
+certificate thumbprint
+certificatethumbprint
+Server
+Server = 
+Server=
+;Server
+login
+login=
+alogin 
+
+
+#apiKey=COOLNUMBER
+
+#sharedSecret=pEwpewpew
+
+Initialize-AWSDefaultConfiguration -AccessKey -SecretKey
+
+Set-AWSCredential -AccessKey AKIAIOSFODNN7EXAMPLE -SecretKey wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY -StoreAs MyProfileName
+
+aws_secret_access_key
+aws_access_key_id
+
+$sshPublicKey
+
+portal.azure.com
+shell.azure.com
+
+#Login Credentials
+
+username=demoapp
+
+password=demo123
+
+
+

@@ -8,6 +8,7 @@ password=blah
 
 this a little repo
 Password =  luckyme123
+Synchrony
 
 Server=tcp:[serverName].database.windows.net;Database=myDataBase;
 User ID=[LoginForDb]@[serverName];Password=myPassword;Trusted_Connection=False;
